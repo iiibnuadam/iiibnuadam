@@ -9,4 +9,6 @@ I'm an it enthusiast, creative and self-starting Front-End Developer with 3 year
 <a href="./https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9fb0b1e9-06c4-4e3a-980b-ccb4b360f39c/cv-ibnu_adam-januari_22.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220807%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220807T063900Z&X-Amz-Expires=86400&X-Amz-Signature=f5982857be2291627e32395d8fec47b124276db445c17205951b205d4086b9ef&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22CV%2520-%2520Ibnu%2520Adam.pdf%22&x-id=GetObject"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jan 2022-green"/></a>
 </div><br/>
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiibnuadam&hide=contribs,prs)
+<!-- ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiibnuadam&hide=contribs,prss&count_private=true&how_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiibnuadam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
